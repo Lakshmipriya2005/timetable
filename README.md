@@ -41,7 +41,7 @@ Execute the program
 
 <br>
 <table  width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<h3 align="center"> SLOT TIME TABLE - SHREE RAM R (212222040154)</h3>
+<h3 align="center"> SLOT TIME TABLE - LAKSHMIPRIYA D (212222040085)</h3>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">8-10</th>

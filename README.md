@@ -16,7 +16,7 @@ Execute the program
 
 # CODE
 
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -37,11 +37,11 @@ Execute the program
 <body>
     <div>
 
-<img src="https://raw.githubusercontent.com/Shree-Ram-R/timetable/main/logo.png" height="100" width="700">
+<img src="https://raw.githubusercontent.com/lakshmipriya2005/timetable/main/logo.png" height="100" width="700">
 
 <br>
 <table  width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<h3 align="center"> SLOT TIME TABLE - LAKSHMIPRIYA D (212222040085)</h3>
+<h3 align="center"> SLOT TIME TABLE - Lakshmipriya D (212222040085)</h3>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">8-10</th>
@@ -134,12 +134,13 @@ Execute the program
 </table>
 </div>
 </body>
-</html>
+</html> 
+```
 
 
 # OUPUT
 
-![TIME_TABLE](timetable.png)
+![TIME_TABLE](Timetable.jpg)
 
 # HTML VALIDATOR
 ![HTML VALIDATOR]()

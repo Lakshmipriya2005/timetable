@@ -142,8 +142,6 @@ Execute the program
 
 ![TIME_TABLE](Timetable.jpg)
 
-# HTML VALIDATOR
-![HTML VALIDATOR]()
 
 # RESULT
 The program for creating slot time table is completed successfully
